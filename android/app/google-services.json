@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "572352720804",
+    "firebase_url": "https://sistem-pembayaran-b8caa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sistem-pembayaran-b8caa",
+    "storage_bucket": "sistem-pembayaran-b8caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572352720804:android:2fb8d1965ef4f70cae1b31",
+        "android_client_info": {
+          "package_name": "bagogo.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572352720804-07rd138dajkrk92us5pmka3e8t1bv6lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-gAbM38u-riLLqwJutjfy5YP0zH0F6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572352720804-07rd138dajkrk92us5pmka3e8t1bv6lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572352720804:android:762d39db54f2d388ae1b31",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pembayaran_bagogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572352720804-07rd138dajkrk92us5pmka3e8t1bv6lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-gAbM38u-riLLqwJutjfy5YP0zH0F6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572352720804-07rd138dajkrk92us5pmka3e8t1bv6lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

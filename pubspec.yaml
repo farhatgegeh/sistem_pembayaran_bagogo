@@ -1,0 +1,42 @@
+name: aplikasi_pembayaran_bagogo
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  firebase_core: ^2.12.0
+  firebase_database: ^10.2.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  geolocator: ^9.0.2
+  get_it: ^7.6.0
+  go_router: ^7.0.1
+  google_fonts: ^4.0.4
+  intl: ^0.18.1
+  ndialog: ^4.3.0
+  qr_code_scanner: ^1.0.1
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
